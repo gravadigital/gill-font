@@ -1,0 +1,23 @@
+{
+  "name": "gill-font",
+  "homepage": "https://github.com/gravadigital/gill-font",
+  "authors": [
+    "Matias Heredia <matiasheredia171292@gmail.com>"
+  ],
+  "description": "this is a repo with gill-font",
+  "main": "style.css",
+  "keywords": [
+    "gill",
+    "font",
+    "grava-digital",
+    "ivan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
